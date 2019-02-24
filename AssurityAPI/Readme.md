@@ -46,8 +46,6 @@ Test case Location: /AssurityAPI/src/test/java/apiTest/AssurityAPI/APITest.java
 4. Navigate to the Project folder inside the terminal where pom.xml is present.
 5. enter the command : mvn test to run the script
 
-#OUTPUT:
-Test Results file: /Assurity_Assigment/test-output/index.html
 
 -------
 Note: testng.xml is included . Further test cases can be added and the run can be modified using testng.xml

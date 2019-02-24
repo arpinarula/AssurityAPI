@@ -1,4 +1,4 @@
 # AssurityAPI
 Acceptance Criteria validation from API
 
-Click AssurityAPI to view files
+Click AssurityAPI folder inside the AssurityAPI repository to view files

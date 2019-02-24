@@ -1,7 +1,6 @@
 # AssurityAPI
 Acceptance Criteria validation from API
 
-Click AssurityAPI folder inside the AssurityAPI repository to view files
 
 # ASSURITY ASSIGNMENT
 The provided project  validates API Values against a given Acceptance Criteria as a part of assessment for Assurity
